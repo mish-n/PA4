@@ -1,2 +1,2 @@
 # PA4
-A java project
+A java swing project
